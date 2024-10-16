@@ -1,0 +1,8 @@
+langchain
+langchain_community
+transformers
+torch
+sentence_transformers
+chromadb
+sentencepiece
+wikipedia
